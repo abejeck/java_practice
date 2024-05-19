@@ -10,3 +10,4 @@ bin/
 # Ignore Gradle build output directory
 build
 src/main/java/io/outagain.txt 
+src/main/java/io/readagain.txt
