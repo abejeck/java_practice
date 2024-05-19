@@ -1,0 +1,4 @@
+Hello! welcome to the introduction of Input and output
+Streams. HAVE FUN
+I'm walking through the forest, I see a bear, oh wait... it's not a bear
+It's a HARE!
