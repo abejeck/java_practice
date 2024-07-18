@@ -18,11 +18,11 @@ public class TranslateIndividualTokens{
                     sum += scanner.nextDouble();
 
                 }else{
-                    s.next();
+                    scanner.next();
                 }
             }
         }finally{
-            s.close();
+            scanner.close();
         }
         System.out.println(sum);
     }
