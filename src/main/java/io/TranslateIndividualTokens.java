@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.Locale;
 
 public class TranslateIndividualTokens{
-    public static void main(String[] args){
+    public static void main(String[] args) throws IOException{
         Scanner scanner = null;
         double sum = 0;
 
