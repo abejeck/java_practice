@@ -8,13 +8,14 @@ public class FormatExamples{
 
         System.out.print("The sqaure root of  " );
         System.out.print(i);
-        System.out.print("is : ");
+        System.out.print(" is : ");
         System.out.print(r);
+        System.out.println(".");
 
         i = 5; 
         r = Math.sqrt(i);
 
-        System.out.println("The square root of " + i + "is: " + r);
+        System.out.println("The square root of " + i + " is: " + r + ".");
     }
   
 
